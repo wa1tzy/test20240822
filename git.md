@@ -4,6 +4,17 @@
 ![image](https://github.com/wa1tzy/test20240822/blob/master/imgs/your_imgae.jpg)
 ```
 
+# 完整流程
+
+```
+git init
+git remote add origin https://github.com/wa1tzy/test20240822
+git push origin master
+git add Readyou.md
+git commit -m "second commit" Readyou.md
+git push origin master
+```
+
 
 
 ```
@@ -37,9 +48,9 @@ git reset --hard[局部索引值]
 
 ```
 git remote -v
-git remote add origin XXX
+git remote add origin your_repositories_url
 git push origin master
-git pull XXX
+git pull repositories_url
 ```
 
 ```
