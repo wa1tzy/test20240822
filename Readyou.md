@@ -8,3 +8,10 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wa1tzy/Pytorch-U2net&type=Date" />
  </picture>
 </a>
+
+
+
+## Star History2
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wa1tzy/Pytorch-U2net&type=Date)](https://star-history.com/#wa1tzy/Pytorch-U2net&Date)
+
